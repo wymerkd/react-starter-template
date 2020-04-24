@@ -3,6 +3,7 @@ import './App.css';
 
 // dependencies
 import { Switch, Route } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 //components
 import Test from './components/Test';

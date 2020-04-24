@@ -6,7 +6,6 @@ function NavBar() {
     <div>
       <Link to="/">Home</Link>
       <Link to="/test">Test</Link>
-      <Link to="/testtwo">TestTwo</Link>
     </div>
   );
 }
