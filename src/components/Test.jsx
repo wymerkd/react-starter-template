@@ -1,4 +1,5 @@
 import React from 'react';
+import '../scss/_test.scss'
 
 function Test() {
   return (
