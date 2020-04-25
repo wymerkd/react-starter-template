@@ -5,6 +5,7 @@ function Test() {
   return (
     <div>
       <h1>Hello-World!</h1>
+      <img src="/images/react.png" alt="react-logo"/>
     </div>
   );
 }
